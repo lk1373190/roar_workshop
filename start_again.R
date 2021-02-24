@@ -30,3 +30,6 @@ for(i in 1:length(x)){
 
 print(sum)
 
+
+## I wonder what happens with this R script
+x
