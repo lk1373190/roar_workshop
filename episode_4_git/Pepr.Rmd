@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Introduction
 
-So this is a RMarkdown document, eh? Let's see if we can commit it to Git.
+So this is a RMarkdown document, eh? Let's see if we can commit it to Git. Okay, so this is a different version than the main one.
 
 ```{r cars}
 mean(cars$speed)
